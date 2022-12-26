@@ -1,0 +1,12 @@
+{
+  "name": "basicjs",
+  "version": "1.0.0",
+  "description": "basic js exercises to learn and practice JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@julminador",
+  "license": "MIT",
+  "type": "module"
+}
