@@ -8,5 +8,8 @@
   },
   "author": "@julminador",
   "license": "MIT",
-  "type": "module"
+  "type": "type",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
